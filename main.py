@@ -1,5 +1,4 @@
 from tkinter import messagebox
-from turtle import color
 from lib.arquivo import *
 from tkinter import *
 
