@@ -23,7 +23,7 @@ Gestor de contas feito por [João Pedro Monção](https://github.com/jpmoncao), 
 ```
     
 ## 🚹 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou João Pedro Monção, tenho 15 anos e atualmente estou cursando técnico em Informática. Estou estudando Front-end! Espero que curta o projeto deste repositório e aproveite para conferir meu perfil...
 
 
 ## 🔗 Links
@@ -44,16 +44,16 @@ Python
 ## ✔️Melhorias
 Sistema de remoção de contas, armazenamento de contas.
 
-## Stack utilizada
+## 💻Stack utilizada
 **Back-end:** Python
 
 
-## Referência
+## 📖Referência
 
  - [Python Arquivos TxT](https://www.youtube.com/watch?v=F8KB5_sEQH0)
  - [Tkinter: Interfaces gráficas em Python](https://www.devmedia.com.br/tkinter-interfaces-graficas-em-python/33956)
  
-## Suporte
+## 📞Suporte
 
 Para suporte, mande um email para pedrohjoao44@gmail.com
 
