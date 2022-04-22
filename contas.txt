@@ -1,0 +1,3 @@
+Conta de água;R$300.00
+Conta de energia;R$452.92
+Supermercado;R$225.98
